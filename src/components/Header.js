@@ -17,9 +17,6 @@ const Header = (data) => (<div>
       <li className="mr-5 mt-2 ">
         <button>SignUp</button>
       </li>
-      <li>
-      <img class="w-10 h-10 rounded-full" src={data.avatar_url}/>
-      </li>
       
     </ul>
     </div>
